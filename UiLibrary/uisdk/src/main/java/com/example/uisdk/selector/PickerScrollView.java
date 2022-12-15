@@ -1,4 +1,4 @@
-package com.amba.app.view.selector;
+package com.example.uisdk.selector;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -7,12 +7,10 @@ import android.graphics.Paint;
 import android.os.Handler;
 import android.os.Message;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.amba.app.R;
-import com.amba.app.utils.LogUtils;
+import com.example.uisdk.R;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -107,7 +105,7 @@ public class PickerScrollView extends View {
     private void performSelect() {
         if (mSelectListener != null)
             mSelectListener.onSelect(mDataList.get(mCurrentSelected));
-        LogUtils.e("日期索引aaa：" + mCurrentSelected);
+
     }
 
     /**

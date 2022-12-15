@@ -1,4 +1,4 @@
-package com.amba.app.view.selector;
+package com.example.uisdk.selector;
 
 import android.app.Activity;
 import android.content.Context;
@@ -11,13 +11,10 @@ import android.view.ViewGroup;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.PopupWindow;
-import android.widget.TextView;
 
 import androidx.annotation.FloatRange;
 import androidx.annotation.LayoutRes;
 import androidx.annotation.StyleRes;
-
-import com.amba.app.R;
 
 /**
  * popupwindow
