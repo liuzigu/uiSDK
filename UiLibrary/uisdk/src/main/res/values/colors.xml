@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#161616</color>
+    <color name="colorPrimaryDark">#030303</color>
+    <color name="colorAccent">#ffa940</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorBackground">#f8f8f8</color>
+    <color name="colorBlue">#D0AD69</color>
+    <color name="colorStyle">#0083fe</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack21">#212121</color>
+    <color name="colorRed">#ff0000</color>
+    <color name="colorTransport">#63B0B0B0</color>
+    <color name="colort">#45000000</color>
+    <color name="colorGray">#666666</color>
+    <color name="color2b">#2b2b2b</color>
+    <color name="colorFileBackground">#1A1A1A</color>
+
+    <color name="alert_divider">#d7d7db</color>
+
+    <color name="clips_color">#333333</color>
+    <color name="color_666">#666666</color>
+    <color name="gray">#ff888888</color>
+    <color name="styleColor">#FFF18D02</color>
+    <color name="transparent">#00000000</color>
+
+
+    <color name="color_red">#FF5722</color>
+    <color name="color_orange">#FF9800</color>
+    <color name="color_yellow">#FFC107</color>
+    <color name="color_green">#3FB830</color>
+    <color name="color_blue">#00BAED</color>
+    <color name="color_dark">#263238</color>
+    <color name="color_dark_light">#455A64</color>
+    <color name="color_light">#ECEFF1</color>
+    <color name="color_hite">#D8DFE6</color>
+    <color name="color_14805E">#14805E</color>
+    <color name="color_333333">#FFFFFF</color>
+
+
+    <color name="black">#000000</color>
+    <color name="line_default_color">#e5e5e5</color>
+
+    <color name="list_view_item_org">#f8f8f8</color>
+    <color name="list_view_item_white">#ffffff</color>
+    <color name="background_tab_pressed">#e5e5e5</color>
+    <color name="action_sheet_blue">#037BFF</color>
+    
+    <!--// 线条view颜色-->
+    <color name="line_view">#373737</color>
+    
+    
+</resources>
